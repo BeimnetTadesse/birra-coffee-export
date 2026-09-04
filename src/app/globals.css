@@ -1,0 +1,91 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #0b1e14;
+  color: #f7f2e6;
+}
+
+::selection {
+  background-color: #efa924;
+  color: #0b1e14;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #0b1e14;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #1f5c36;
+  border-radius: 999px;
+  border: 2px solid #0b1e14;
+}
+
+.text-balance {
+  text-wrap: balance;
+}
+
+.container-px {
+  @apply px-6 sm:px-10 lg:px-16;
+}
+
+/* Subtle diagonal-line texture used on dark sections, matching the reference design */
+.texture-lines {
+  background-image: repeating-linear-gradient(
+    115deg,
+    rgba(255, 255, 255, 0.025) 0px,
+    rgba(255, 255, 255, 0.025) 1px,
+    transparent 1px,
+    transparent 26px
+  );
+}
+
+/* Light-mode counterpart, used for uncaptioned photo placeholder slots on cream backgrounds */
+.texture-lines-light {
+  background-image: repeating-linear-gradient(
+    115deg,
+    rgba(26, 43, 32, 0.07) 0px,
+    rgba(26, 43, 32, 0.07) 1px,
+    transparent 1px,
+    transparent 26px
+  );
+}
+
+/* Horizontal drag-to-scroll carousel with snap */
+.scroll-drag {
+  scroll-snap-type: x proximity;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+}
+.scroll-drag::-webkit-scrollbar {
+  display: none;
+}
+.scroll-drag > * {
+  scroll-snap-align: start;
+}
+
+/* Marquee track: duplicate content once in the component so -50% loops seamlessly */
+.marquee-track {
+  display: flex;
+  width: max-content;
+  animation: marquee 30s linear infinite;
+}
+[dir="rtl"] .marquee-track {
+  animation-direction: reverse;
+}
+
+@keyframes marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}

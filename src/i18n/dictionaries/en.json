@@ -1,0 +1,299 @@
+{
+  "meta": {
+    "title": "Birra Coffee Export",
+    "description": "Birra Coffee General Trading PLC specializes in supplying premium Ethiopian Arabica green coffee beans to importers, roasters, wholesalers, and specialty coffee buyers worldwide. From sourcing to delivery, we maintain rigorous quality assurance with strict quality control, traceability, and internationally recognized processing standards."
+  },
+  "nav": {
+    "siteLabel": "COFFEE EXPORT",
+    "home": "Home",
+    "processing": "Processing",
+    "documentation": "Documentation",
+    "contact": "Contact",
+    "groupBadge": "Part of Birra Group",
+    "cta": "Get a Quote"
+  },
+  "exportPage": {
+    "hero": {
+      "eyebrow": "ADDIS ABABA · EST. 2010",
+      "title": "Ethiopian Coffee.\nFrom Origin to World.",
+      "body": "Carefully sourced, graded and exported from Ethiopia.",
+      "stats": [
+        {
+          "value": "7 origins",
+          "suffix": "",
+          "label": "ETHIOPIAN REGIONS",
+          "desc": "Yirgacheffe, Sidama, Guji, Harar, Limu, Jimma and Lekempti."
+        },
+        {
+          "value": "4 markets",
+          "suffix": "",
+          "label": "MARKETS SERVED",
+          "desc": "The Middle East, Europe, the Americas and Asia."
+        },
+        {
+          "value": "CERES · USDA",
+          "suffix": "",
+          "label": "ORGANIC CERTIFIED",
+          "desc": "CERES (EU equivalent) and USDA Organic — supporting access to European and North American organic markets."
+        },
+        {
+          "value": "2 plants",
+          "suffix": "",
+          "label": "PROCESSING FACILITIES",
+          "desc": "Dire Dawa and Sheger City, Oromia."
+        },
+        {
+          "value": "ECX & Direct",
+          "suffix": "",
+          "label": "SOURCING",
+          "desc": "Direct from suppliers through vertical integration and via Ethiopia Commodity Exchange."
+        },
+        {
+          "value": "Member",
+          "suffix": "",
+          "label": "INDUSTRY MEMBERSHIP",
+          "desc": "Ethiopian Coffee Exporters Association — the national trade body for Ethiopia's coffee export industry."
+        }
+      ],
+      "ctaPrimary": "Explore our coffee",
+      "ctaSecondary": "Partner with us"
+    },
+    "capacity": {
+      "eyebrow": "PROCESSING & CAPACITY",
+      "title": "Processing and capacity",
+      "items": [
+        {
+          "number": "01",
+          "title": "Advanced color sorting",
+          "desc": "State-of-the-art color sorter machines meticulously process raw coffee beans, ensuring unparalleled consistency and eliminating defects."
+        },
+        {
+          "number": "02",
+          "title": "Quality control",
+          "desc": "Every lot undergoes comprehensive inspection, grading, cleaning, sorting, and quality control. Discerning hand pickers also hand pick the coffee for the required export standard."
+        },
+        {
+          "number": "03",
+          "title": "Sourcing",
+          "desc": "Coffee secured directly from suppliers through vertical integration as well as from Ethiopia Commodity Exchange (ECX), sourcing top quality coffee from reliable local suppliers."
+        },
+        {
+          "number": "04",
+          "title": "Skilled workforce",
+          "desc": "Well-organized and experienced management staff with high qualification and long years of experience in coffee marketing. 54 permanent and 250 seasonal workers."
+        },
+        {
+          "number": "05",
+          "title": "Traceable supply chain",
+          "desc": "Complete traceability from origin to destination, ensuring consistent quality and customer confidence in every container exported."
+        },
+        {
+          "number": "06",
+          "title": "Processing facilities",
+          "desc": "Strategically located processing plants in Dire Dawa and Sheger City, Oromia, equipped with cutting-edge technology for export-quality processing."
+        }
+      ]
+    },
+    "packing": {
+      "title": "Packing and formats",
+      "body": "Packing is agreed per contract. Lined and vacuum options are available on request.",
+      "items": [
+        {
+          "title": "60 kg jute bags",
+          "desc": "Standard green coffee packing for export",
+          "tag": "Per contract"
+        },
+        {
+          "title": "Lined jute bags",
+          "desc": "Available on request for specialty lots",
+          "tag": "On request"
+        },
+        {
+          "title": "Vacuum packing",
+          "desc": "Available on request for small parcels and samples",
+          "tag": "On request"
+        },
+        {
+          "title": "Valve bags, roasted",
+          "desc": "Roastery output for roasted product",
+          "tag": "On request"
+        }
+      ],
+      "photoCaption": "BIRRA COFFEE, ADDIS ABABA"
+    },
+    "documents": {
+      "title": "Documentation pack",
+      "body": "Prepared per shipment against the lot number. The exact set depends on destination requirements.",
+      "items": [
+        "Commercial invoice",
+        "Packing list",
+        "Bill of lading",
+        "Certificate of origin",
+        "Phytosanitary certificate",
+        "Weight & quality certificate",
+        "Inspection documents",
+        "Destination-specific paperwork"
+      ],
+      "photoCaption": "EXPORT WAREHOUSE"
+    }
+  },
+  "journey": {
+    "eyebrow": "THE JOURNEY",
+    "title": "Eight stages between a cherry and your cup",
+    "stageLabel": "STAGE",
+    "endLabel": "CHERRY → YOUR CUP",
+    "stages": [
+      {
+        "number": "01",
+        "title": "Farm",
+        "desc": "Grown by smallholder farms and cooperatives across seven Ethiopian regions."
+      },
+      {
+        "number": "02",
+        "title": "Harvest",
+        "desc": "Selective hand-picking, red cherry only, delivered to the nearest station the same afternoon."
+      },
+      {
+        "number": "03",
+        "title": "Processing",
+        "desc": "Washed or natural — decided lot by lot against the buyer contract."
+      },
+      {
+        "number": "04",
+        "title": "Quality Control",
+        "desc": "Graded, cleaned and cupped by trained tasters before it moves on."
+      },
+      {
+        "number": "05",
+        "title": "Roasting",
+        "desc": "Selected lots roasted in-house, profiled to bring out each origin's character."
+      },
+      {
+        "number": "06",
+        "title": "Packaging",
+        "desc": "Packed for export, wholesale or retail, in food-grade materials."
+      },
+      {
+        "number": "07",
+        "title": "Export",
+        "desc": "Documented, compliance-checked and shipped from the port of Djibouti."
+      },
+      {
+        "number": "08",
+        "title": "Customer",
+        "desc": "From Birra's hands to yours — export partners, wholesalers and everyday drinkers."
+      }
+    ]
+  },
+  "contactPage": {
+    "eyebrow": "CONTACT",
+    "title": "Talk to Birra Group",
+    "body": "Buyers, roasters, distributors and partners — tell us what you need and the right desk will come back to you.",
+    "emailLabel": "EMAIL",
+    "phoneLabel": "PHONE",
+    "officeLabel": "HEAD OFFICE",
+    "officeValue": "Wollo Sefer, Birra Tower, Ethio China St, Addis Ababa",
+    "marketsLabel": "MARKETS SERVED",
+    "marketsValue": "USA · Europe · Middle East · Asia",
+    "emailCta": "Email the export desk",
+    "aiCta": "Ask the AI assistant",
+    "form": {
+      "title": "Send an enquiry",
+      "nameLabel": "NAME",
+      "namePlaceholder": "Your full name",
+      "companyLabel": "COMPANY",
+      "companyPlaceholder": "Company or roastery",
+      "emailLabel": "EMAIL",
+      "emailPlaceholder": "you@company.com",
+      "countryLabel": "COUNTRY",
+      "countryPlaceholder": "Destination market",
+      "interestLabel": "INTEREST",
+      "interestPlaceholder": "Select a product or origin",
+      "interestOptions": [
+        "Yirgacheffe",
+        "Sidamo",
+        "Guji",
+        "Harrar",
+        "Limmu",
+        "Jimma",
+        "Lekempti",
+        "Roasted coffee",
+        "Private label",
+        "Other / not sure"
+      ],
+      "quantityLabel": "QUANTITY",
+      "quantityPlaceholder": "e.g. 5 tons, 2 containers",
+      "messageLabel": "MESSAGE",
+      "messagePlaceholder": "Destination port, timing, and anything else we should know",
+      "submit": "Send enquiry",
+      "sending": "Sending…",
+      "success": "Thank you — your enquiry has been received. Our export desk will be in touch within a working day.",
+      "errorGeneric": "Something went wrong. Please try again, or email us directly."
+    }
+  },
+  "footer": {
+    "description": "Birra Group, established 2010 in Addis Ababa — a diversified Ethiopian enterprise rooted in premium coffee export, roasting and trade.",
+    "email": "contact@birra-group.com",
+    "phone": "+251 915 012 599",
+    "addressLine2": "Ethio China St, Addis Ababa",
+    "contactTitle": "CONTACT",
+    "groupTitle": "OUR GROUP",
+    "groupLink": "Birra Group",
+    "roasteryLink": "Coffee Roastery",
+    "livingLink": "Birra Living",
+    "exploreTitle": "EXPLORE",
+    "processingLink": "Processing & Capacity",
+    "contactLink": "Contact",
+    "copyright": "Birra Coffee General Trading PLC. All rights reserved."
+  },
+  "aiChat": {
+    "launcher": "Ask AI",
+    "title": "Birra Export Assistant",
+    "greeting": "Hi, I'm here to help with your coffee sourcing — tell me a bit about what you're looking for, or ask about our origins.",
+    "inputPlaceholder": "Type a question…",
+    "sendLabel": "Send",
+    "fallback": "That's one for our export desk — send us a message through the contact form and they'll come back to you directly.",
+    "meanwhile": "Still have questions? Our export desk can help directly.",
+    "emailCta": "Email the export desk",
+    "tasteLabel": "CHOOSE YOUR CUP",
+    "tasteCta": "Find my origin",
+    "tastePrompt": "I enjoy these flavour notes: {tastes}. Which Birra origin matches best, and why?",
+    "tasteOptions": [
+      "Floral",
+      "Citrus",
+      "Fruity",
+      "Berry",
+      "Winey",
+      "Mocha",
+      "Bright Acidity",
+      "Full Body"
+    ],
+    "quickLabel": "QUICK QUESTIONS",
+    "quickQuestions": [
+      {
+        "label": "Coffee Origins",
+        "prompt": "Which coffee origins does Birra export from?"
+      },
+      {
+        "label": "Request a Quote",
+        "prompt": "I'd like to request a quote — how does that work?"
+      },
+      {
+        "label": "Certifications",
+        "prompt": "What certifications does Birra hold?"
+      },
+      {
+        "label": "Markets Served",
+        "prompt": "Which international markets does Birra serve?"
+      },
+      {
+        "label": "Sourcing & Processing",
+        "prompt": "How does Birra source and process its coffee?"
+      },
+      {
+        "label": "Contact the Export Desk",
+        "prompt": "How do I get in touch with Birra's export desk?"
+      }
+    ]
+  }
+}
