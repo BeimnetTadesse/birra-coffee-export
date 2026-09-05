@@ -1,6 +1,5 @@
 "use client";
 
-import Image from "next/image";
 import { motion } from "framer-motion";
 import type { Dictionary } from "@/i18n/getDictionary";
 import type { Locale } from "@/i18n/config";
@@ -26,16 +25,17 @@ export default function ExportHero({ dict, locale }: { dict: Dictionary; locale:
           normal flow, so it starts exactly at the fold — invisible until the
           visitor scrolls, never sharing the centering with the hero text. */}
       <div className="relative flex min-h-screen min-h-[100svh] flex-col justify-center overflow-hidden pt-24">
-        <Image
-          src="/images/hero-roasted-bags.png"
-          alt="Packaged Birra Coffee, ready for export"
-          fill
-          priority
-          sizes="100vw"
-          className="object-cover"
+        <video
+          className="absolute inset-0 h-full w-full object-cover"
+          src="/videos/hero.mp4"
+          poster="/images/hero-poster.jpg"
+          autoPlay
+          muted
+          loop
+          playsInline
         />
-        {/* Dims the photo and fades it toward the pine background at the
-            edges, so the text stays legible and the image blends into the
+        {/* Dims the video and fades it toward the pine background at the
+            edges, so the text stays legible and the footage blends into the
             rest of the page instead of ending in a hard rectangle. */}
         <div className="absolute inset-0 bg-pine-950/30" />
         <div className="absolute inset-0 bg-gradient-to-r from-pine-950/80 via-pine-950/25 to-pine-950/55" />
