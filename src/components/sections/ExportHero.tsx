@@ -27,8 +27,8 @@ export default function ExportHero({ dict, locale }: { dict: Dictionary; locale:
           visitor scrolls, never sharing the centering with the hero text. */}
       <div className="relative flex min-h-screen min-h-[100svh] flex-col justify-center overflow-hidden pt-24">
         <Image
-          src="/images/hero-beans.jpg"
-          alt="Roasted Ethiopian coffee beans"
+          src="/images/hero-roasted-bags.png"
+          alt="Packaged Birra Coffee, ready for export"
           fill
           priority
           sizes="100vw"
